@@ -1,11 +1,9 @@
 ---
 title: これはテストです
 slug: intro/index
+tags: チュートリアル
 ---
 
-# My first HackMD note (change me!)
-
-###### tags: `Tag(change me!)`
 ![](https://i.imgur.com/gIobQvQ.png)
 
 > This note is yours, feel free to play around.  :video_game: 
